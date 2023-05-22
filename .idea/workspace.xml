@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7922a0b-0134-41df-a168-4cc768eb306c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/intellij-javadocs-4.0.1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/client/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/client/HttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/server/HttpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/server/HttpServer.java" afterDir="false" />
-    </list>
+    <list default="true" id="c7922a0b-0134-41df-a168-4cc768eb306c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +122,7 @@
       <workItem from="1684732175387" duration="69000" />
       <workItem from="1684732276011" duration="112000" />
       <workItem from="1684732426713" duration="51000" />
-      <workItem from="1684732493577" duration="3230000" />
+      <workItem from="1684732493577" duration="3419000" />
     </task>
     <servers />
   </component>
